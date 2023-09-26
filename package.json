@@ -1,0 +1,24 @@
+{
+  "name": "js-node-example",
+  "version": "1.0.0",
+  "description": "week 3 activity create a js node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arianne Dilzer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mustardowl/New-Class.git"
+  },
+  "keywords": [
+    "week",
+    "3",
+    "activity"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mustardowl/New-Class/issues"
+  },
+  "homepage": "https://github.com/Mustardowl/New-Class#readme"
+}
